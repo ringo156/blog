@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
-languageCode = "en-us"
-title = "Noteworthy"
+languageCode = "ja-jp"
+title = "Takk Fyrir"
 theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
@@ -25,7 +25,7 @@ disqusShortname = ""
 [params]
 	math = true
 	# Blog description at the top of the homepage. Supports markdown.
-	description = "Noteworthy is a minimalist Hugo theme, perfect for writers and bloggers."
+	description = "渋谷のIT系に勤めることになった新卒のブログです。"
 
     showReadMore = false
 
@@ -36,42 +36,42 @@ disqusShortname = ""
 	# Add links to your accounts. Remove the ones you don't want to include.
 	# Main
 	email = "#"
-    facebook = "#"
-    twitter = "#"
-	instagram = "#"
-	tumblr = "#"
-	reddit = "#"
-	pinterest = "#"
-	youtube = "#"
-    vimeo = "#"
-	weibo = "#"
-	vk = "#"
-	linkedin = "#"
+    # facebook = "#"
+    twitter = "https://twitter.com/Malus_Mill_"
+	# instagram = "#"
+	# tumblr = "#"
+	# reddit = "#"
+	# pinterest = "#"
+	# youtube = "#"
+  #   vimeo = "#"
+	# weibo = "#"
+	# vk = "#"
+	# linkedin = "#"
 
-	# Writing
-    medium = "#"
-	blogger = "#"
-	wordpress = "#"
+	# # Writing
+  #   medium = "#"
+	# blogger = "#"
+	# wordpress = "#"
 
 	# Creative & Visual
-    dribbble = "#"
-	behance = "#"
-	deviantart = "#"
-	flickr = "#"
+  #   dribbble = "#"
+	# behance = "#"
+	# deviantart = "#"
+	flickr = "https://www.flickr.com/photos/147167562@N02/"
 
     # Audio & Music
-    soundcloud = "#"
+    # soundcloud = "#"
 
 	# Programming
-    github = "#"
-	stackoverflow = "#"
-	gitlab = "#"
-	codepen = "#"
+    github = "https://github.com/ringo156"
+	# stackoverflow = "#"
+	# gitlab = "#"
+	# codepen = "#"
 
     # Academic
-    googlescholar = "#"
-    impactstory = "#"
-    orcid = "#"  
+    # googlescholar = "#"
+    # impactstory = "#"
+    # orcid = "#"  
 
 # Menu links along the sidebar navigation.
 [[menu.main]]
