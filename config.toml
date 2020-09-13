@@ -1,4 +1,5 @@
-baseURL = "https://ringo156.github.io"
+baseURL = "https://ringo156.github.io/blog"
+relativeurls = true
 languageCode = "ja-jp"
 title = "Takk Fyrir"
 theme = "noteworthy"

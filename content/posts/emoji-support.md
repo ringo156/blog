@@ -3,6 +3,7 @@ author: "Hugo Authors"
 title: "Emoji Support"
 date: "2019-12-03"
 description: "Guide to emoji usage in Hugo"
+draft: true
 tags: [
     "emoji",
 ]
