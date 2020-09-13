@@ -1,7 +1,8 @@
 ---
 author: "Hugo Authors"
-title: "Markdown Syntax"
+title: "Sample post"
 date: "2020-01-24"
+draft: true
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags: [
     "markdown",
