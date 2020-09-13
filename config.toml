@@ -12,6 +12,8 @@ googleAnalytics = ""
 # Add your Disqus shortname here.
 disqusShortname = ""    
 
+publishDir = "docs"
+
 [taxonomies]
   tag = "tags"
 
