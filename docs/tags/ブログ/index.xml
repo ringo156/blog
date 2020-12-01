@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ポエム on Takk Fyrir</title>
-    <link>https://ringo156.github.io/blog/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</link>
-    <description>Recent content in ポエム on Takk Fyrir</description>
+    <title>ブログ on Takk Fyrir</title>
+    <link>https://ringo156.github.io/blog/tags/%E3%83%96%E3%83%AD%E3%82%B0/</link>
+    <description>Recent content in ブログ on Takk Fyrir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ringo156.github.io/blog/tags/%E3%83%9D%E3%82%A8%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ringo156.github.io/blog/tags/%E3%83%96%E3%83%AD%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>web系素人がIT系企業に就職して勉強した本・動画・ブログまとめ</title>
       <link>https://ringo156.github.io/blog/posts/new_graduate/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://ringo156.github.io/blog/posts/new_graduate/</guid>
       <description>&lt;p&gt;この記事は&lt;a href=&#34;https://adventar.org/calendars/5868&#34;&gt;2020新卒&lt;/a&gt;1日目の記事になります。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://ringo156.github.io/blog/posts/hello_world/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ringo156.github.io/blog/posts/hello_world/</guid>
-      <description>&lt;p&gt;このブログについて&lt;/p&gt;</description>
     </item>
     
   </channel>
