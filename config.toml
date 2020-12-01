@@ -13,7 +13,7 @@ googleAnalytics = ""
 disqusShortname = ""    
 
 publishDir = "docs"
-
+ignoreErrors = ["error-remote-getjson"]
 [taxonomies]
   tag = "tags"
 
